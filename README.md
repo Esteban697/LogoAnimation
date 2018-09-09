@@ -1,3 +1,3 @@
-# LogoAnimation
+# Logo Animation
 ### by Esteban Struve
-Animation of my personal brand: Uxin3D
+Animation in Unity3D of my personal brand: Uxin3D
