@@ -1,12 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UXin3D_Intro.Plugins", "UXin3D_Intro.Plugins.csproj", "{40AC9722-43FE-22AC-0F88-EAB656E306E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UXin3D_Intro", "UXin3D_Intro.csproj", "{1EAC5C7E-55C7-6923-D674-E98FC655B011}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40AC9722-43FE-22AC-0F88-EAB656E306E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40AC9722-43FE-22AC-0F88-EAB656E306E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40AC9722-43FE-22AC-0F88-EAB656E306E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40AC9722-43FE-22AC-0F88-EAB656E306E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EAC5C7E-55C7-6923-D674-E98FC655B011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EAC5C7E-55C7-6923-D674-E98FC655B011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EAC5C7E-55C7-6923-D674-E98FC655B011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EAC5C7E-55C7-6923-D674-E98FC655B011}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
